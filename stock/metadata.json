@@ -1,0 +1,6 @@
+{
+  "name": "Control de Stock de Autopartes",
+  "description": "Sistema de gestión de inventario de autopartes con autenticación, roles de Administrador y Cliente con catálogo de compras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
